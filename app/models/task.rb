@@ -8,4 +8,3 @@ class Task < ApplicationRecord
     end
   end
 end
-view rawtask hosted with ❤ by GitHub
